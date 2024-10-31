@@ -1,0 +1,72 @@
+body{
+    background-color:#A5C1D9;
+    background-image: url("https://www.seekpng.com/png/full/439-4396865_stars-pink-estrellas-love-colors-shine-estrellas-tumblr.png");
+    margin:0;
+    }
+    #header{
+      background-color:#98D9D9;
+      text-align:center;
+    }
+    .charm-regular {
+      font-family: "Charm", cursive;
+      font-weight: 400;
+      font-style: normal;
+    }
+    
+    .charm-bold {
+      font-family: "Charm", cursive;
+      font-weight: 700;
+      font-style: normal;
+    }
+    h1,h2{
+      font-family:Charm;
+      color:#A95CBC;
+      text-align:center;
+    }
+    ol li{
+      list-style-type:none;
+      padding-bottom:25px;
+    }
+    ul li{
+      padding-bottom:25px;
+    }
+    #additionalinfo{
+      display:flex;
+    }
+    #didyouknow{
+      margin-right:30px;
+      background-color:#98D9D9;
+    }
+    #colleaguequote{
+      background-color:#98D9D9;
+    }
+    .imagerow{
+    display:flex;
+    }
+    
+    #image{
+      display:block;
+      width:40%;
+      max-width:100%;
+      margin: auto;
+    }
+    #img-caption{
+      text-align:center;
+    }
+    #quote{
+      display:flex;
+      background-color:#98D9D9;
+      margin-top:20px;
+      align-items:center;
+      text-align:center;
+    }
+    #quoteimage{
+      width:30%;
+    }
+    #tribute-info{
+      background-color:#98D9D9;
+      height:80px;
+    }
+    #tribute-info > p{
+      text-align:center;
+    }
